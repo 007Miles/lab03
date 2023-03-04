@@ -1,0 +1,19 @@
+{
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "Node tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/007Miles/Lab03.git"
+  },
+  "author": "Milendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/007Miles/Lab03/issues"
+  },
+  "homepage": "https://github.com/007Miles/Lab03#readme"
+}
